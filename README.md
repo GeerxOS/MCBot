@@ -1,9 +1,16 @@
 # MCBot
 # Installation
 -> Download the repository
+
 -> Install Node JS
+
 -> Open config.json
--> open cmd & type node bot.js
+
+-> Open cmd & type npm i mineflayer
+
+-> Type npm bot.js
+
+-> :)
 
 # Example Config Json File:
 
