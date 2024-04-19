@@ -1,4 +1,5 @@
 # MCBot
+# Discord: gerxivv
 # Installation
 -> Download the repository
 
