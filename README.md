@@ -3,6 +3,7 @@
 -> Download the repository
 -> Install Node JS
 -> Open config.json
+-> open cmd & type node bot.js
 
 # Example Config Json File:
 
