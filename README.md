@@ -8,7 +8,7 @@
 
 -> Open cmd & type npm i mineflayer
 
--> Type npm bot.js
+-> Type node bot.js
 
 -> :)
 
