@@ -1,0 +1,10 @@
+{
+    "server": "",
+    "port": "",
+    "botName": "",
+    "password": "",
+    "antiafk": "",
+    "logChat": "",
+    "version": "",
+    "prefix": "!"
+}
